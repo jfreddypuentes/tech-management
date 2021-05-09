@@ -1,7 +1,7 @@
 # Notas de Gerencia en Tecnología
 
 
-## Estimaciones
+## ⏰ Estimaciones
 * Buscar hacer entregables cortos para obtener un retorno de inversión constante.
 * Predecir el futuro a largo plazo en desarrollo de software es: complejo + complicado
   Proyectos definidos en modelo en cascada: [caos-report](https://www.projectsmart.co.uk/white-papers/chaos-report.pdf)
@@ -77,6 +77,49 @@
   * Como se va a usar los fondos.
   * Soporta
 
+
+## 👥 Creación de equipos
+
+### Estructura
+* Definir celulas de trabajo que funcione de forma optimizada.
+* Definir el objetivo de cada equipo. Definir la misión del equipo.
+* Empoderarlo para que vayan de la mano con el negocio. No al contrario
+* Minimizar las dependencias al máximo. Construir equipos autónomos.
+* Construir equipos multidisciplinarios y auto-organizados.
+* Brindar la seguridad psicológica de fallar.
+
+### Reclutamiento
+* Es necesario conocer el stack tecnológico.
+* Definir el perfil. Debe ser claro.
+* No cerrar la puerta a la personas sin experiencia o estudios.
+* OJO: Alerta con el sesgo inconsiente. Eliminalo.
+* Define el pipeline del proceso de reclutamiento. [Contacto, entrevista ténica, entrevista fee cultural etc]
+* Automatizar el pipeline. Para optimizar tiempo, encontrar cuellos de botella.
+  Algunas herramientas:
+  * https://www.bamboohr.com/g/
+  * https://recruitee.com/
+  * https://www.pipefy.com/
+* Definir el reto técnico y aplicar (remoto o presencial)
+* Bsucar personas que:
+  * Escuchen
+  * Sean responsables
+  * Muestren su lado vulnerable o reconozca sus defectos
+  * Trabajen en equipo
+* Estudiar salarios del mercado.
+  * Algunas herramientas:
+    - LinkedIn salary
+    - Payscale
+    - glassdoor
+* Buscar recomendaciones cuando el proceso no sea confidencial.
+
+
+## 📚 Recursos recomendados
+* Articulo: [caos-report](https://www.projectsmart.co.uk/white-papers/chaos-report.pdf)
+* Libro: Lean Startup
+* Plantilla: [Deck](https://www.canva.com/templates/EADrOnpuH7Y-green-and-blue-illustrative-technology-pitch-deck-presentation/)
+* Plantilla: [startup-picth-deck](https://slidebean.com/templates/startup-pitch-deck-template)
+* Libro: Domain-Driven Design
+* 
 
 
 
