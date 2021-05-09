@@ -34,6 +34,7 @@
 * Expectativas irreales
 * Falta de apoyo ejecutivo
 
+
 ### Buenas prácticas para estimar proyectos "not lean"
 * Estimar épicas a muy alto nivel (_porque no se tiene el detalle y hay incertidumbre_), las historias de usuario las estima los desarrolladores.
 * Crear un roadmap de alto nivel con las épicas, prioridad y tamaño o complejidad
@@ -54,6 +55,27 @@
 * TIP: Si vamos a fallar, fallemos barato.
 * LIBRO RECOMENDADO: Lean startup
 
+
+### Fechas de entrega
+* No entregar fechas de entrega a largo plazo. Si se debe tener y entregar fecha de entrega del sprint o MVP.
+* Agregar más personas a un proyecto no hace que se entregue más rápido. Vea [Ley_de_Brooks](https://es.wikipedia.org/wiki/Ley_de_Brooks)
+* Negociar con el triangulo de negociación de Alcance * Tiempo * Costo (siempre entregando valor)
+
+
+### Buscando capital
+* Pensar en como el proyecto o MVP retornará la inverión.
+* Vender una idea:
+  * Plantilla del deck [Aquí](https://www.canva.com/templates/EADrOnpuH7Y-green-and-blue-illustrative-technology-pitch-deck-presentation/)
+  * Titulo
+  * Definir un problema
+  * Explicar solución para convencer. (_buscar data y numeros_)
+  * Mostrar tracción: pruebas que han hecho, feedback.
+  * Mostrar tamaño del mercado. (_mostrar data_)
+  * Pensar en la competencia. (interna o interna)
+  * Ventejas competitivas.
+  * Mostrar cual es el pronóstico de negocio.
+  * Como se va a usar los fondos.
+  * Soporta
 
 
 
