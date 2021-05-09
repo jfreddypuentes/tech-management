@@ -65,7 +65,7 @@
 ### Buscando capital
 * Pensar en como el proyecto o MVP retornará la inverión.
 * Vender una idea:
-  * Plantilla del deck [Aquí](https://www.canva.com/templates/EADrOnpuH7Y-green-and-blue-illustrative-technology-pitch-deck-presentation/)
+  * Plantilla del deck [Aquí](https://www.canva.com/templates/EADrOnpuH7Y-green-and-blue-illustrative-technology-pitch-deck-presentation/) y aqui [startup-picth-deck](https://slidebean.com/templates/startup-pitch-deck-template)
   * Titulo
   * Definir un problema
   * Explicar solución para convencer. (_buscar data y numeros_)
