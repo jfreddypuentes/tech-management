@@ -111,6 +111,64 @@
     - Payscale
     - glassdoor
 * Buscar recomendaciones cuando el proceso no sea confidencial.
+* Definir un onBoarding.  Checklist de lo que debe hacer una persona cuando entre nuevo al team.
+
+### Definir esquema de lideres.
+* Los equipos son el reflejo del lider.
+* Promover una capa de lideres que hagan sinergia + quimica.
+
+
+## Ruta técnica
+* Ojo: las personas altamente tenicas no son siempre buenos lideres.
+* Se miden por las victorias tempranas en las mejoras técnicas.
+* Necesitan un objetivo claro hacia donde vamos.
+  * Entiende la parte técnica pero entiende más a las personas.
+* Influye a través de las personas.
+
+## Ruta de gerencia
+* Trabaja con las personas.
+* Se miden por la comunicación, el delivery y por el liderazgo de las personas.
+
+## Promociones
+* Hay que hacerlas cuando las personas estén listas y las finanzas lo permitan.
+* Hay que definir una ruta clara de desarrollo y crecimiento.
+* No es un trabajo solo de RRHH, es del lider.
+* Hay que hacer público las promociones, hacer reconocimientos.
+
+
+## Cuellos de botella y burocracia
+* El objetivo es tener equipo auto gestionados en todo lo que controlan.
+* Disminuir o eliminar dependencias.
+* Automatizar.
+
+
+## Innersource
+* Aplicar principios de opensource en equipos.
+* El team o la persona que necesita algo lo hace. Bajo los estándares definidos se hace pull request y se hacen las cosas.
+
+## Ingenería hacia la izquierda
+* Desde el principio de un feature, fix, proyecto, involucrar a todas las áreas que posiblemente se vean involucradas (_finanzas, operación, rrhh, seguridad_)
+* Prevenir desde el principio es ser agil.
+
+
+## La burocracia
+* ¿Las reglas y procesos están optimizados?
+* Hay que entender el por que existe el proceso, la regla, el lineamiento.
+  * Opción 1: Una vez entendido, puede comunicarlo al team.
+  * Opción 2: Si se puede optimizar hay que hacerlo.
+  * Opción 3: Si no se puede cambiar u opitmizar entonces hay que automatizarlo.
+* Hay que ser disruptivo sin llegar a ser rebelde. Tener en cuenta saber decir las cosas, saber vender. Influenciando de manera positiva en la organización.
+ 
+
+## Cultura
+* Promover los debates abiertos sin importar quien sea.
+* Cuando se tomen desiciones se deben ejecutar.
+* Estar abierto a las tecnologias nuevas. (_Los estandares pueden cambiar_)
+* Respetar el tiempo de los demás. (_Entre equipos, lideres y demás_)
+* Promover el feedback. hacer 1 on 1 entre todos.
+* Enfocarse en: Personas -> Producto -> Retorno. (En ese orden!)
+* Evita el deflecting. Es el exceso de re-dirección. Resolver el problema.
+* "Estoy en desacuerdo contigo, pero me sumo a lo que dices". Disagree by commit.
 
 
 ## 📚 Recursos recomendados
@@ -119,7 +177,4 @@
 * Plantilla: [Deck](https://www.canva.com/templates/EADrOnpuH7Y-green-and-blue-illustrative-technology-pitch-deck-presentation/)
 * Plantilla: [startup-picth-deck](https://slidebean.com/templates/startup-pitch-deck-template)
 * Libro: Domain-Driven Design
-* 
-
-
 
