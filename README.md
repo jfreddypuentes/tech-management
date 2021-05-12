@@ -171,6 +171,70 @@
 * "Estoy en desacuerdo contigo, pero me sumo a lo que dices". Disagree by commit.
 
 
+## Rol del lider
+
+### Motivación
+* Los equipos deben saber cual es su misión, meta, objetivos.
+* Los equipos deben tener todas las herramientas para desarrollar su trabajo.
+* Habilitar y/o permitir que los equipos se empoderen, fallen, aprendan.
+
+### Creando lideres
+* ser y crear lideres por reconocimiento y no por posición.
+* No se puede ser lider cuando no se es buena persoona.
+
+### Desición
+* Opción 1: Tomar desición basada en data
+* Opción 2: Tomar desición en equipo.
+* Opción 3: Instinto.
+
+### Seguimientos
+* El liderazgo no se trata de control.
+* En Agile se puede conocer status mediante las herramientas.
+
+## Operación
+* La calidad de las estimaciones es directamente proporcional a la calidad de su definición.
+* Las historias de usuario se deben refinar (groooming) antes de estimarlas.
+* La capacidad de los equipos no se conocen cuando son equipos nuevos.
+
+**Definition Of Done**
+* Pruebas unitarias.
+* Código revisado
+* Criterios de aceptación OK.
+* Pruebas funcionales OK.
+* Requistos no funcionales OK.
+
+**Capacidad vs Velocidad => Estimation accuracy**
+* Es bueno buscar comparar las dos métricas.
+* El rendimiento de la capacidad y velocidad debe acercarse lo que más se pueda a 100%.
+* La velocidad no es un objetivo pero si hay que medirlo.
+
+**Frecuencia de deploys en producción**
+* Hay que buscar la frecuencia de despliegues.
+* La mejor práctica es un despliegue x historia de usuario. El riesgo es menor, las pruebas son más rápidas y se entrega valor.
+
+**Uptime**
+* uptime = tiempo_disponible / (tiempo_disponible + tiempo_no_disponible)
+* Chevere medirlo por minutos al mes. (dias al mes * 24 horas * 60 minutos)
+* Ideal que el uptime sea de 100%
+* Se puede medir por microservicios, servicios, aplicaciones.
+
+## Clima laboral
+* Hay que medirlo periodicamente. Con encuestas.
+
+## Agile
+* El objetivo no es hacer agile, el objetivo es oobtener valor. Adaptar herramientas para ser mejor.
+* Hay que tener embajadores de agile en los equipos.
+
+
+## Otros
+* Plan orugas y semillas.
+* Retrospectivas.
+* 1 on 1
+* Gestión de desempeño.
+* Desarrollo y crecimiento personal y profesional.
+* Pausas activas reminder.
+
+
 ## 📚 Recursos recomendados
 * Articulo: [caos-report](https://www.projectsmart.co.uk/white-papers/chaos-report.pdf)
 * Libro: Lean Startup
